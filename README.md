@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Yata React
+
+Vanilla [CRA](https://github.com/facebook/create-react-app) app with internalization using [Yata](https://www.yatapp.net/).
+
+Includes following packages:
+- [react-intl](https://github.com/formatjs/react-intl)
+- [yata-fetch](https://github.com/dzbo/yata-fetch)
+
+![Alt text](https://monosnap.com/image/qnKvJ50Q317eutKortME7Rlg5fZbpl)
 
 ## Available Scripts
 
