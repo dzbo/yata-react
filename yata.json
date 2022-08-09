@@ -1,9 +1,7 @@
 {
   "token": "YATA_REACT_API_TOKEN",
-  "project": "RW5Sd2VxTTFjc3V3VE5xWXdrbVlkbjE0b2FEOGhSV2RjamFVYjNjSlVzdz0=",
-  "locales": [
-    "en_US", "de_DE"
-  ],
+  "project": "cVZEUHVBNGFadmFMcGVVdWlhT1V0dCtkQ2l2S0Z5VWU4S3VtUjF5NS9JWT0=",
+  "locales": ["en_US", "de_DE"],
   "format": "json",
   "root": false,
   "outputPath": "./src/translations",
