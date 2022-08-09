@@ -2,7 +2,9 @@
 
 Vanilla React app with internalization using [Yata](https://www.yatapp.net/).
 
-Stack:
+<img src="https://user-images.githubusercontent.com/1100879/183540175-753b265f-e7e8-497f-8a54-ae61a4b8a57b.gif" width="600" />
+
+## Stack:
 
 - [react](https://reactjs.org)
 - [react-intl](https://github.com/formatjs/react-intl)
