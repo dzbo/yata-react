@@ -11,14 +11,15 @@ Vanilla React app with internalization using [Yata](https://www.yatapp.net/).
 - [yata-fetch](https://github.com/dzbo/yata-fetch)
 - [vite](https://vitejs.dev/)
 
-## Available Scripts
+## Setup
 
-In the project directory, you can run:
+To run the project:
 
-`npm run dev` - start dev derver
-
-`npm run yata-fetch` - generate new translations
-
-`npm run test` - run tests
-
-`npm run build` - make production build
+```sh
+npm install
+npm run dev
+```
+Generate translations:
+```sh
+npm run yata-fetch
+```
