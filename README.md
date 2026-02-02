@@ -16,10 +16,12 @@ Vanilla React app with internalization using [Yata](https://www.yatapp.net/).
 To run the project:
 
 ```sh
-npm install
-npm run dev
+pnpm install
+pnpm run dev
 ```
+
 Generate translations:
+
 ```sh
-npm run yata-fetch
+pnpm run yata-fetch
 ```
