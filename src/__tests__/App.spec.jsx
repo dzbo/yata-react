@@ -9,5 +9,5 @@ test("can change language", () => {
 
   fireEvent.click(screen.getByText("DE"));
 
-  expect(screen.getByText("Hallo App!"));
+  expect(screen.getByText("Hallo React!"));
 });
