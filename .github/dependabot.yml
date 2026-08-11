@@ -1,0 +1,16 @@
+version: 2
+
+updates:
+  # The npm ecosystem covers pnpm. Declaring it explicitly stops Dependabot
+  # from falling back to its npm_and_yarn guess, which looks for a
+  # package-lock.json / yarn.lock this repo does not have and fails with
+  # "VulnerabilityAuditor: missing lockfile".
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: monthly
+    groups:
+      # One grouped PR per cycle instead of one per package.
+      all-dependencies:
+        patterns:
+          - '*'
