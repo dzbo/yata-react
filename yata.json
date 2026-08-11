@@ -5,5 +5,5 @@
   "format": "json",
   "root": false,
   "outputPath": "./src/translations",
-  "strip_empty": true
+  "stripEmpty": true
 }
